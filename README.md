@@ -23,7 +23,6 @@ Con esta guía obtendrás los conocimientos necesarios para:
 - Instalar y configurar Git.
 - Registrarte en Github.
 - Descargar (clonar) repositorios.
-- Contribuir a a otros repositorios.
 - Crear tus propios repositorios.
 - Sincronizar tus archivos locales con la nube.
-
+- Contribuir a otros repositorios.
